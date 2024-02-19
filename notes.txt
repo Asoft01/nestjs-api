@@ -1,0 +1,2 @@
+nest g module user
+nest g module bookmark
